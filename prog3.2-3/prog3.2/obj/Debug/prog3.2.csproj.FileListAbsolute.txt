@@ -1,0 +1,7 @@
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\bin\Debug\prog3.2.exe.config
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\bin\Debug\prog3.2.exe
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\bin\Debug\prog3.2.pdb
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\obj\Debug\prog3.2.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\obj\Debug\prog3.2.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\obj\Debug\prog3.2.exe
+C:\Учебная практика\Неделя 1 Задание 3\Задание 2\Консоль\prog3.2\prog3.2\obj\Debug\prog3.2.pdb

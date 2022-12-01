@@ -1,0 +1,10 @@
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.exe.config
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.exe
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.pdb
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csprojAssemblyReference.cache
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog._3._1form.Form1.resources
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog._3._1form.Properties.Resources.resources
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csproj.GenerateResource.cache
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csproj.CoreCompileInputs.cache
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.exe
+C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.pdb
