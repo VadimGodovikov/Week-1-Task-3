@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -24,7 +25,7 @@ namespace prog._3._1form
 
 		public int MethodZero(int x)
 		{
-			if (x % 2 == 1)
+			if (x % 2 != 0)
 			{
 				return 0;
 			}
@@ -36,8 +37,16 @@ namespace prog._3._1form
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			textBox1.Text = "Демонстрация метода: числа от 0 до 20" + Environment.NewLine;
-			for (int i = 0; i < 20; i++)
+			int a = int.Parse(numericUpDown1.Text, NumberStyles.Float);
+			int b = int.Parse(numericUpDown2.Text, NumberStyles.Float);
+
+			if (a > b)
+			{
+				MessageBox.Show("Начальное число диапазона А не должно быть больше конечного числа B");
+			}
+
+			textBox1.Text = $"Результат вычисления метода диапазоне от {a} до {b}" + Environment.NewLine;
+			for (int i = a; i <= b; i++)
 			{
 				textBox1.Text += $"i = {i}, результат метода i = {MethodZero(i)}" + Environment.NewLine;
 			}

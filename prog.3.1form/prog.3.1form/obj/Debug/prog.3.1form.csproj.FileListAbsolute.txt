@@ -8,3 +8,13 @@ C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.cspr
 C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csproj.CoreCompileInputs.cache
 C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.exe
 C:\Users\host\source\repos\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.pdb
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.exe.config
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.exe
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\bin\Debug\prog.3.1form.pdb
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csprojAssemblyReference.cache
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog._3._1form.Form1.resources
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog._3._1form.Properties.Resources.resources
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csproj.GenerateResource.cache
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.csproj.CoreCompileInputs.cache
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.exe
+C:\Учебная практика\Неделя 1 Задание 3\prog.3.1form\prog.3.1form\obj\Debug\prog.3.1form.pdb
